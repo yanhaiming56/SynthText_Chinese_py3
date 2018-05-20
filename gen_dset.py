@@ -37,3 +37,8 @@ if __name__ == "__main__":
                 except:
                     continue;
 
+depth.close()
+seg_mask.close()
+dset.close()
+
+
